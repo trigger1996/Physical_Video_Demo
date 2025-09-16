@@ -20,7 +20,7 @@ DOI: [10.1109/JAS.2022.106043](https://doi.org/10.1109/JAS.2022.106043)
 *"Optimal Synthesis for Partially-Observable Stochastic Systems With Opacity Preservation Under Temporal Logic Constraints"*  
 
 🎥 **Video Demo**  
-<video src="https://github.com/trigger1996/Physical_Video_Demo/blob/master/MDP2025/0426_multi.mp4?raw=true" controls width="600"></video>
+<video src="https://github.com/trigger1996/Physical_Video_Demo/blob/master/MDP2025/0426_multi.mp4" controls width="600"></video>
 
 ---
 
